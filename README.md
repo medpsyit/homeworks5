@@ -9,3 +9,5 @@
 - [Задание 1](https://github.com/medpsyit/homeworks5/blob/main/3/Homework%203_1/Homework%203_1.cpp)
 - [Задание 2](https://github.com/medpsyit/homeworks5/blob/main/3/Homework%203_2/Homework%203_2.cpp)
 - [Задание 3](https://github.com/medpsyit/homeworks5/blob/main/3/Homework%203_3/Homework%203_3.cpp)
+## [Урок 4](4):
+- [Задание 1](https://github.com/medpsyit/homeworks5/blob/main/4/Homework%204/Homework%204.cpp)
